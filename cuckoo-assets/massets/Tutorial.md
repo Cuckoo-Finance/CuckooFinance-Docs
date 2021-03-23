@@ -1,6 +1,6 @@
 # Cuckoo.finance
 
-## 网页端使用教程
+## OKChain 使用教程
 
 1. 下载 Metamsk：访问 https://metamask.io/ 下载 Metamsk（记得要科学上网），根据提示创建账户，牢记登录密码和助记词等，做好备份。
 
