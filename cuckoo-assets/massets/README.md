@@ -7,7 +7,7 @@ description: OKChain测试网期间，用户可以参加Cuckoo.finance创建的�
 ## 活动概述
 
 - 活动将总共空投 `1,000,000` CKO
-- 空投时间：UTC 时间 3 月 26 日 - OKChain 主网上线前
+- 空投时间：OKChain 主网上线前
 
 - 玩家在 OKChain 测试网通过参与 Cuckoo.finance 的借贷挖矿获得的 CKO，将在 OKChain 主网上线之后获得 1：1 的空投
 - 测试网当前每个区块可挖 `2`CKO
