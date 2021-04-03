@@ -1,7 +1,3 @@
-# Cuckoo.finance
-
-## OKChain 测试网合约地址
-
 # Deployed addresses
 
 {% tabs %}
