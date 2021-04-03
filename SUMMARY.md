@@ -12,4 +12,5 @@
 
 ## 社区
 
-- [社区发展](cuckoo-assets/massets/community.md)
+- [Github](https://github.com/CuckooFinance)
+- [Telegram](https://t.me/Cuckoo_Finance)
