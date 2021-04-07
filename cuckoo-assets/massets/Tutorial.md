@@ -41,8 +41,4 @@
 
 1. OKChain 配置完成之后，打开[Cuckoo](https://cuckoo.finance)官网，点击 Enter App
 
--
-
-2.  点击 EnterApp 之后根据下列图片教程进行操作
-
--
+2. 点击 EnterApp 之后根据下列图片教程进行操作
