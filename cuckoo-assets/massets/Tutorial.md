@@ -36,3 +36,13 @@
        - 点击页面下方的按钮“SIGN IN TO START TALKING”。
 
        - 在弹出的页面中选择任意一种登录方式，登录之后，输入自己的钱包地址并发送，几秒钟之后即可在账户中收到测试币。
+
+## Cuckoo 使用教程
+
+1. OKChain 配置完成之后，打开[Cuckoo](https://cuckoo.finance)官网，点击 Enter App
+
+-
+
+2.  点击 EnterApp 之后根据下列图片教程进行操作
+
+-
