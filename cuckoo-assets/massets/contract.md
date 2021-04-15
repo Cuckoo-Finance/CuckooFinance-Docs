@@ -9,7 +9,7 @@
 | SimplePriceOracle | [0x21b436f2232B53C185837FF495d0627dAf529754](https://www.oklink.com/okexchain-test/address/0x21b436f2232B53C185837FF495d0627dAf529754) |
 | InterestRateModel | [0xC6D430b9496D5bDe2E3607096e51D34852D2333E](https://www.oklink.com/okexchain-test/address/0xC6D430b9496D5bDe2E3607096e51D34852D2333E) |
 | Maximillion | [0xeDC257a99C400F67FA850cb24134FEABef2dAdD3](https://www.oklink.com/okexchain-test/address/0xeDC257a99C400F67FA850cb24134FEABef2dAdD3) |
-| CuckooLens | [0x01d537E3A10A4B67E5547396dfAdCA90e0e81151](https://www.oklink.com/okexchain-test/address/0x01d537E3A10A4B67E5547396dfAdCA90e0e81151) |
+| CuckooLens | [0x8D7A000c57016C0327ebd4b6EecbbF4E7e7817CB](https://www.oklink.com/okexchain-test/address/0x8D7A000c57016C0327ebd4b6EecbbF4E7e7817CB) |
 | cOKT | [0x2818E8fB8c5585B94d325Db1b71EDDB07A097284](https://www.oklink.com/okexchain-test/address/0x2818E8fB8c5585B94d325Db1b71EDDB07A097284) |
 | cOKB | [0xC5Fd6d5510bE916CeE30e7Eaa4080f848F0779D1](https://www.oklink.com/okexchain-test/address/0xC5Fd6d5510bE916CeE30e7Eaa4080f848F0779D1) |
 | cUSDT | [0x582B042F6c50C476aaa51bc4a724524A73325963](https://www.oklink.com/okexchain-test/address/0x582B042F6c50C476aaa51bc4a724524A73325963) |
