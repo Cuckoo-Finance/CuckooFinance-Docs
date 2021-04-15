@@ -14,3 +14,8 @@
 
 - [Github](https://github.com/CuckooFinance)
 - [Telegram](https://t.me/Cuckoo_Finance)
+
+## 审计报告
+
+- [Audit-ZH](https://cuckoo.finance/Cuckoo-Protocol-Smart-Contract-Audit-Report-zh.pdf)
+- [Audit-EN](https://cuckoo.finance/Cuckoo-Protocol-Smart-Contract-Audit-Report-en.pdf)
